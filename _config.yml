@@ -15,8 +15,8 @@ description:         Malcolm's blog...
 # urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
 url: https://randomthought.github.io
-baseurl: "/lanyon-plus"
-urlimg: https://randomthought.github.io/images/
+baseurl: "/randomthought.github.io"
+urlimg: https://randomthought.github.io/lanyon-plus/images/
 markdown: kramdown
 kramdown:
   math_engine: mathjax
