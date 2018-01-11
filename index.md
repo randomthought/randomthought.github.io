@@ -6,7 +6,7 @@ description: "Blogging on ...."
 
 ## Technovangelist
 
-I am fascinated by how computers work and still running through endless learning rabbit-hole. The more I know the more I realize I don't know. The purpose of this blog is the record my trip through the rabbit hole. I would be posting topics about
+I am fascinated by how computers work and still running through endless learning rabbit-hole. The more I know the more I realize I don't know. The purpose of this blog is to record my trip through the rabbit hole. I would be posting topics about
 
 * Software Development
 * Security
