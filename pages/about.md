@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 show_meta: true
 # imagefeature path is relative to images/ directory.
-imagefeature: foo.png
+imagefeature: luffy.png
 published: true
 description: "About randomthought.github.io...."
 category: views

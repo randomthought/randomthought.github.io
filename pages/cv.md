@@ -10,7 +10,7 @@ tags:
   - resume
   - "foo boo"
 comments: false
-imagesummary: foo.png
+imagesummary: avatar.png
 modified: "2016-02-13"
 sitemap:
     priority: 0.7
