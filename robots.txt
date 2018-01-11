@@ -55,4 +55,4 @@ Disallow: /files/
 User-agent: *
 Disallow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://randomthought.github.io/sitemap.xml
