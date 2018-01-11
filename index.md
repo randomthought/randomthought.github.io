@@ -5,15 +5,18 @@ title: Personal Homepage of foo boo
 description: "Blogging on ...."
 ---
 
-## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+## Technovangelist
 
-Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
+I am fascinated by how computers work and still running through endless learning rabbit-hole. The more I know the more I realize I don't know. The purpose of this blog is the record my trip through the rabbit hole. I would be posting topics about
 
-* add-ons by [Samir Amin](http://sbamin.com)
-* [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
-* License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license). 
+* Software Development
+* Security
+* Machine Learning
+* Blockchain 
 
-Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
+---
+
+Hopefully these records would be useful to someone curious to learn, compile and run!
 
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
