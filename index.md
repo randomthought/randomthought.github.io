@@ -36,7 +36,7 @@ Hopefully these records would be useful to someone curious to learn, compile and
 </script>
 </div>
 {% else %}
-Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`. [Demo](http://sbamin.com)
+<!-- Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`. [Demo](http://sbamin.com) -->
 {% endif %}
 
 <div class="posts">
