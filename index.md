@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of 
 description: "Blogging on ...."
 ---
 
