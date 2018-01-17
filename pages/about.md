@@ -30,6 +30,6 @@ tags:
 </span>
 </div>
 
-You really want to know more about me? :P
+Hello, my name is Malcolm Mulong... kind of difficult writing about yourself. In time i would write a better intro.
 
 *[volutpat]: Tooltip for abbreviation.
