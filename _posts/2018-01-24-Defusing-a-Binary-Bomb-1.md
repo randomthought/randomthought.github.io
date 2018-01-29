@@ -3,7 +3,7 @@ layout: post
 title: "Defusing a Binary Bomb: Part 1"
 date: "2018-01-26"
 slug: "cis194_week_1"
-description: "Learn reverse engineering by defusing the legndary bomb labs using gdb and radare2. By defusing the bomb, you would learn the basics of reverse engineering and how the computer executes instructions."
+description: "Reverse engineer the legendary bomb labs using  radare2. By defusing the bomb, the goal is to refine my reversing skills and getting familiar with radare2"
 category:
   - views
   - featured
