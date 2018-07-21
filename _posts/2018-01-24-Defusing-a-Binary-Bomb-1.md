@@ -2,7 +2,7 @@
 layout: post
 title: "Defusing a Binary Bomb: Part 1"
 date: "2018-01-26"
-slug: "cis194_week_1"
+slug: "binery_bomb_1"
 description: "Reverse engineer the legendary bomb labs using  radare2. By defusing the bomb, the goal is to refine my reversing skills and getting familiar with radare2"
 category:
   - views
